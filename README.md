@@ -1,5 +1,5 @@
 - 👋 Hi, I’m SARAVANAN
-- 👀 I’m interested in Developing webpages
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning b.tech Information  technology
 - 📫 How to reach me through mail :sarosk241@gamil.com
 
